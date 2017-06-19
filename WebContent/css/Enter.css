@@ -8,3 +8,29 @@ body {
 .dropdown-toggle::after {
     display:none
 }
+
+.text-ellipsis{
+
+        display:inline-block;    
+     	width:180px;
+	white-space: nowrap;
+	overflow:hidden !important;
+	text-overflow: ellipsis;"
+}
+
+.card:hover {
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5); 
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover {
+    	text-decoration: none;
+}
+
+
+
+
+
